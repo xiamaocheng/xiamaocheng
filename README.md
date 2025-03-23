@@ -3,7 +3,7 @@
 
 <!-- 左侧内容 -->
 <div style="display: inline-block; text-align: left; width: 70%; vertical-align: top;">
-  <h1>你好，我是 [你的名字] 👋</h1>
+  <h1>你好，我是 [夏茂成] 👋</h1>
 
   ## 🚀 关于我
   - 🔭 我目前正在学习/工作于 **[Java，AI或开发工程师]**。
@@ -29,7 +29,7 @@
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xiamaocheng&layout=compact&theme=radical)
 
   ## 📫 联系我
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:你的邮箱)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1299692066@qq.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](你的LinkedIn链接)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](你的Twitter链接)
 </div>
