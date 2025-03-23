@@ -25,8 +25,8 @@
   ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
   ## 📊 GitHub 统计
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=radical)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub用户名&layout=compact&theme=radical)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xiamaocheng&show_icons=true&theme=radical)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xiamaocheng&layout=compact&theme=radical)
 
   ## 📫 联系我
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:你的邮箱)
@@ -63,7 +63,7 @@
 
 <!-- 访客计数 -->
 ## 👀 访客计数
-![Visitor Count](https://profile-counter.glitch.me/你的GitHub用户名/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/xiamaocheng/count.svg)
 
 <!-- 名言或有趣的话 -->
 ## 💡 名言
