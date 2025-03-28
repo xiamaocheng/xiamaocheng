@@ -23,6 +23,14 @@
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+   ## 🛠️ 技术博客
+| 序号 | 名称              | 描述                     | 官方链接                          |
+|------|-------------------|--------------------------|-----------------------------------|
+| 1    | csdn            |  技术架构的Java技术的研究             | [前往社区，查看我的技术背书](https://blog.csdn.net/xiamaocheng?type=blog)     |
+| 2    |ITPUB    | 数据架构类技术        | [前往社区，查看我的技术背书](https://blog.itpub.net/myarticle/) |
+| 3    | oschina            | 人工智能研究机构         | [前往社区，查看我的技术背书](https://openai.com)      |
+| 4    | 51cto   | 部署架构类技术           | [前往社区，查看我的技术背书](https://blog.51cto.com/u_7050893)|
+| 5    | 思否  | 安全架构类技术           | [前往社区，查看我的技术背书](https://segmentfault.com/u/kuanrongdeshafa) |
 
   ## 📊 GitHub 统计
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xiamaocheng&show_icons=true&theme=radical)
