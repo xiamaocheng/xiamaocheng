@@ -46,7 +46,7 @@
 
 <!-- 右侧二维码 -->
 <div style="display: inline-block; text-align: center; width: 25%; vertical-align: top;">
-  <img src="https://github.com/user-attachments/assets/939ef1b3-187b-4c84-92b3-945b1ca67095" alt="二维码" width="200" /> <!-- 替换为你的二维码链接 -->
+  <img src="https://github.com/user-attachments/assets/70d087b2-027a-4d3f-88a3-c774a1ff350a" alt="二维码" width="200" /> <!-- 替换为你的二维码链接 -->
   <br />
   <p>扫描二维码联系我</p>
 </div>
