@@ -13,7 +13,7 @@
   - 💬 欢迎询问我关于 **[Java技术]** 的问题。
   - 📫 如何联系我： **[1299692066@qq.com或18352417539]**。
   - 😄 代词： **[他]**。
-  - ⚡ 有趣的事实： **[MBA 考试瞎蒙考了120+]**。
+  - ⚡ 有趣的事实： **[因为计划生育政策，身份证其实我小了一些]**。
 
   ## 🛠️ 技术栈
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
