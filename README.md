@@ -38,6 +38,7 @@
 | 10    | 项目管理  | 内部使用           | [前往社区，查看我的技术背书](https://my.pmi.org/?_gl=1*tjg3mm*_gcl_au*MjQwOTM1NjA5LjE3MzYxMjczNDYuMTkyMzc0ODM1NC4xNzQzMjQxNzQ2LjE3NDMyNDE3NDU.) |
  ## 📊 Gitee 统计
 | 序号 | 名称              | 描述                     | 官方链接                          |
+|------|-------------------|--------------------------|-----------------------------------|
 | 1    | Gitee  | 内部使用           | [前往社区，查看我的技术背书](https://gitee.com/mcxia/) |
   ## 📊 GitHub 统计
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xiamaocheng&show_icons=true&theme=radical)
