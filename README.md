@@ -35,7 +35,8 @@
 | 7    | 工具支持  | 工具使用实践           | [前往社区，查看我的技术背书](https://juejin.cn/user/2335797457463879) |
 | 8    | 用友内部博客  | 内部使用           | [前往社区，查看我的技术背书](https://community.yonyou.com/login?redirect=%2Fportal.php&mod=list&catid=2) |
 | 9    | 外文博客  | 内部使用           | [前往社区，查看我的技术背书](https://dev.to/) |
-
+ ## 📊 Gitee 统计
+| 9    | Gitee  | 内部使用           | [前往社区，查看我的技术背书](https://gitee.com/mcxia/) |
   ## 📊 GitHub 统计
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xiamaocheng&show_icons=true&theme=radical)
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xiamaocheng&layout=compact&theme=radical)
