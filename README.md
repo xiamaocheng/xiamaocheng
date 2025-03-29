@@ -40,6 +40,11 @@
 | 序号 | 名称              | 描述                     | 官方链接                          |
 |------|-------------------|--------------------------|-----------------------------------|
 | 1    | Gitee  | 内部使用           | [前往社区，查看我的技术背书](https://gitee.com/mcxia/) |
+## ⭐ 我的码云数据
+<p align="center">
+  <img src="https://gitee.com/mcxia/ebook/badge/star.svg" alt="Gitee Stars">
+  <img src="https://gitee.com/mcxia/ebook/badge/fork.svg" alt="Gitee Forks">
+</p>
   ## 📊 GitHub 统计
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xiamaocheng&show_icons=true&theme=radical)
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xiamaocheng&layout=compact&theme=radical)
