@@ -26,7 +26,7 @@
    ## 🛠️ 应用方向技术社区博客
 | 序号 | 名称              | 描述                     | 官方链接                          |
 |------|-------------------|--------------------------|-----------------------------------|
-| 1    | csdn            |  技术架构的Java技术的研究             | [前往社区，查看我的技术背书](https://blog.csdn.net/xiamaocheng?type=blog)     |
+| 1    | csdn            |  技术架构--Java技术             | [前往社区，查看我的技术背书](https://blog.csdn.net/xiamaocheng?type=blog)     |
 | 2    |ITPUB    | 数据架构类技术        | [前往社区，查看我的技术背书](https://blog.itpub.net/myarticle/) |
 | 3    | oschina            | 人工智能研究机构         | [前往社区，查看我的技术背书](https://my.oschina.net/AIGenius)      |
 | 4    | 51cto   | 部署架构类技术           | [前往社区，查看我的技术背书](https://blog.51cto.com/u_7050893)|
