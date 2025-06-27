@@ -34,8 +34,8 @@
 | 6    | InfQ  | 业务架构类技术           | [前往社区，查看我的技术背书](https://www.infoq.cn/profile/8E8D58FE040264/publish) |
 | 7    | 技术工具  | 工具使用实践           | [前往社区，查看我的技术背书](https://juejin.cn/user/2335797457463879) |
 | 8    | 用友企业内部博客  | 仅限企业内部使用的博客           | [前往社区，查看我的技术背书](https://community.yonyou.com/login?redirect=%2Fportal.php&mod=list&catid=2) |
-| 9    | 外文博客  | 内部使用           | [前往社区，查看我的技术背书](https://dev.to/) |
-| 10    | 项目管理  | 内部使用           | [前往社区，查看我的技术背书](https://my.pmi.org/?_gl=1*tjg3mm*_gcl_au*MjQwOTM1NjA5LjE3MzYxMjczNDYuMTkyMzc0ODM1NC4xNzQzMjQxNzQ2LjE3NDMyNDE3NDU.) |
+| 9    | 外文博客  | 仅限企业内部使用的博客         | [前往社区，查看我的技术背书](https://dev.to/) |
+| 10    | 项目管理  | 仅限企业内部使用的博客           | [前往社区，查看我的技术背书](https://my.pmi.org/?_gl=1*tjg3mm*_gcl_au*MjQwOTM1NjA5LjE3MzYxMjczNDYuMTkyMzc0ODM1NC4xNzQzMjQxNzQ2LjE3NDMyNDE3NDU.) |
  ## 📊 Gitee 统计
 | 序号 | 名称              | 描述                     | 官方链接                          |
 |------|-------------------|--------------------------|-----------------------------------|
